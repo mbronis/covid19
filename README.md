@@ -2,7 +2,7 @@
 
 All datasest names have prefix - data source and suffix - date when the data was acquired (yymmdd), separated with underscore.
 
-## List of dat asources
+## List of data sources
 
 1. European Centre for Disease Prevention and Control (ecdc)
 
